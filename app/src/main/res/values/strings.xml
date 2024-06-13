@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">meccabot</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="image">gambarnote</string>
+    <string name="intent_type">image/*</string>
+    <string name="choose_image">Pilih Gambar</string>
+</resources>
